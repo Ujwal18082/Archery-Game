@@ -1,9 +1,10 @@
 # depslib dependency file v1.0
-1654874333 source:d:\users\ujju\archery\archery game\main.cpp
+1658037400 source:d:\users\ujju\archery\archery game\main.cpp
 	<GL/gl.h>
 	<GL/glu.h>
 	<GL/glut.h>
-	<stdio.h>
+	<string.h>
+	<stdlib.h>
 
 1301111164 c:\program files (x86)\codeblocks\mingw\include\gl\gl.h
 
